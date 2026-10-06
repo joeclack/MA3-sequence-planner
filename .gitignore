@@ -1,0 +1,11 @@
+node_modules/
+.npm-cache/
+dist/
+tmp/
+.env
+.env.local
+.vercel/
+*.tsbuildinfo
+.env.*
+!.env.example
+2026-08-27_grandMA3_User_Manual_PDF_v2.5.0.3.pdf
